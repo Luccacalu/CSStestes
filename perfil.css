@@ -1,0 +1,291 @@
+/* #perfilborda {
+    position: relative;
+  }
+  
+#perfilborda > * {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 50%);
+    padding: 5px;
+    border: 2px solid #BB99DD;
+    border-radius: 200px;
+  }
+  
+.perfilfoto{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.instahandle{
+    position: absolute;
+    color: blue;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.um{
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 50%);
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.lum{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.dois{
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 100%;
+    top: 100%;
+    transform: translate(-50%, 50%);
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.ldois{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+} */
+
+#perfilborda {
+    position: relative;
+  }
+  
+#perfilborda > .perfilfoto {
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 100px;
+    padding: 5px;
+    border: 2px solid #BB99DD;
+    border-radius: 200px;
+  }
+
+.perfilfoto{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 107px;
+    border-radius: 200px;
+}
+
+.instahandle{
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 350px;
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.um{
+    position: absolute;
+    width: 326px;
+    height: 50px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 400px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.lum{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.dois{
+    position: absolute;
+    width: 326px;
+    height: 50px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 460px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.ldois{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tres{
+    position: absolute;
+    width: 326px;
+    height: 50px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 520px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.ltres{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.quatro{
+    position: absolute;
+    width: 326px;
+    height: 50px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    top: 580px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.lquatro{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #BB99DD;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#vectorsbox {
+    position: relative;
+  }
+  
+#vectorsbox > .twitter, .twitch, .instagram, .linkedin, .github {
+    position: absolute;
+    width: 236px;
+    height: 24px;
+    top: 640px;
+  }
+
+.twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 44%;
+    transform: translate(-50%, 0%);
+}
+
+.twitch {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 47%;
+    transform: translate(-50%, 0%);
+}
+
+.instagram {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 53%;
+    transform: translate(-50%, 0%);
+}
+
+.github {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 56%;
+    transform: translate(-50%, 0%);
+}
